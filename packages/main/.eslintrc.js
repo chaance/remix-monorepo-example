@@ -31,9 +31,9 @@ module.exports = {
     'import/prefer-default-export': 'off',
 
     // really?
-    'react/function-component-definition': "off",
+    'react/function-component-definition': 'off',
 
-    "comma-dangle": "off"
+    'comma-dangle': 'off'
   },
   settings: {
     'import/resolver': {
@@ -51,7 +51,7 @@ module.exports = {
       parserOptions: {
         ecmaVersion: 2018,
         sourceType: 'module',
-        project: 'tsconfig.json'
+        project: './tsconfig.json'
       }, // to enable features such as async/await,
       extends: [
         'airbnb-typescript',
