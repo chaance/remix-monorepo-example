@@ -1,18 +1,9 @@
 {
   "private": true,
   "name": "main",
-  "description": "The main app which is being served at ksorv.com",
+  "description": "The main app which is being served at ",
   "version": "0.0.1",
-  "author": {
-    "name": "Saurav Khdoolia",
-    "email": "me@ksorv.com",
-    "url": "https://ksorv.com"
-  },
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ksorv/blog.git"
-  },
   "browserslist": [
     "> 0.5%",
     "last 2 versions",

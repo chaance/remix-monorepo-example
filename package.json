@@ -4,5 +4,8 @@
   "private": true,
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "astro": "^0.21.13"
+  }
 }

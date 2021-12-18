@@ -4,7 +4,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "Saurav Khdoolia <sauravkhdoolia@gmail.com>",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",
