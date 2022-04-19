@@ -6,6 +6,7 @@
   "main": "package.json",
   "license": "UNLICENSED",
   "scripts": {
+    "dev": "sanity start",
     "start": "sanity start",
     "build": "sanity build"
   },
